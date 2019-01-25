@@ -18,3 +18,11 @@ The notebooks are uploaded by course:
     d. Deep Learning & Art: Neural Style Transfer
   
 4. Sequence Models
+
+    a. Building a Recurrent Neural Network (RNN) Model 
+  
+    b. Dinosaurs and Character level language Model
+  
+    c. LSTM to generate music (Jazsolo)
+  
+    d. Operations on word vectors (Word Embeddings, Word Analogy, reduce gender bias)
