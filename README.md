@@ -9,12 +9,12 @@ The notebooks are uploaded by course:
 2. Improving Deep neural networks
 3. Convolutional Neural Networks:
 
-  a. Building a Conolutional Model (CONV, POOL layers and backpropagation)
+    a. Building a Conolutional Model (CONV, POOL layers and backpropagation)
   
-  b. CONVNet Model Application: Implement CONVNet using TensorFlow (detection hand signs for numbers)
+    b. CONVNet Model Application: Implement CONVNet using TensorFlow (detection hand signs for numbers)
   
-  c. Autonomous Car Detection application using YOLO algorithm
+    c. Autonomous Car Detection application using YOLO algorithm
   
-  d. Deep Learning & Art: Neural Style Transfer
+    d. Deep Learning & Art: Neural Style Transfer
   
 4. Sequence Models
