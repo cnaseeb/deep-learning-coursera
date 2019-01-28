@@ -16,6 +16,8 @@ The notebooks are uploaded by course:
     c. Autonomous Car Detection application using YOLO algorithm
   
     d. Deep Learning & Art: Neural Style Transfer
+    
+    e. Face Recognition for the Happy House
   
 4. Sequence Models
 
