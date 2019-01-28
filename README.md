@@ -6,7 +6,8 @@ This repo contains all my work for this specialization. All the code base, and i
 The notebooks are uploaded by course:
 
 1. Neural Networks and Deep Learning
-2. Improving Deep Neural networks
+
+2. Improving Deep Neural networks: Hyperparameter tuning, Regularization and Optimization
     
     a. Initialization (model regularization and hyperparameter tuning)
     
