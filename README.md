@@ -1,4 +1,5 @@
-# deep-learning-coursera
+# Deep-Learning-Coursera
+
 Deep Learning Specialization by Andrew Ng on Coursera.
 
 This repo contains all my work for this specialization. All the code base, and images, are taken from, unless specified otherwise, <https://www.coursera.org/specializations/deep-learning>
