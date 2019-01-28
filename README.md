@@ -16,7 +16,7 @@ The notebooks are uploaded by course:
     
     c. Gradient Checking to ensure that the backpropagation implementation is correct
     
-    d. 
+    d. Optimization methods (to Understand the intuition between Adam and RMS prop, Recognize the importance of mini-batch gradient             descent, and Learn the effects of momentum on the overall performance of your model)
     
 3. Convolutional Neural Networks:
 
