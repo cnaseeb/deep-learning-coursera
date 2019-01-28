@@ -7,6 +7,15 @@ The notebooks are uploaded by course:
 
 1. Neural Networks and Deep Learning
 2. Improving Deep neural networks
+    
+    a. Initialization (model regularization and hyperparameter tuning)
+    
+    b. 
+    
+    c. 
+    
+    d. 
+    
 3. Convolutional Neural Networks:
 
     a. Building a Conolutional Model (CONV, POOL layers and backpropagation)
