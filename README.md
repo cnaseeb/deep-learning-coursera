@@ -12,7 +12,7 @@ The notebooks are uploaded by course:
     
     a. Initialization (model regularization and hyperparameter tuning)
     
-    b. 
+    b. Regularization methods and Dropout implementation
     
     c. 
     
