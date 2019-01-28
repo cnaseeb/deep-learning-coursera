@@ -18,6 +18,9 @@ The notebooks are uploaded by course:
     
     d. Optimization methods (to Understand the intuition between Adam and RMS prop, Recognize the importance of mini-batch gradient             descent, and Learn the effects of momentum on the overall performance of your model)
     
+    e. Build a deep neural network model to recognize numbers from 0 to 5 in sign language 
+    
+    
 3. Convolutional Neural Networks:
 
     a. Building a Conolutional Model (CONV, POOL layers and backpropagation)
