@@ -14,7 +14,7 @@ The notebooks are uploaded by course:
     
     b. Regularization methods and Dropout implementation
     
-    c. 
+    c. Gradient Checking to ensure that the backpropagation implementation is correct
     
     d. 
     
