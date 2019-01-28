@@ -1,4 +1,4 @@
-This directory contains implementation for the Sequence Models, espec ially on the following topics.
+This directory contains implementation for the Sequence Models, especially on the following topics.
 
   a. Building a Recurrent Neural Network (RNN) Model
 
