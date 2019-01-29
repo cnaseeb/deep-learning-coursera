@@ -10,4 +10,4 @@
       
   c. Building your Deep neural network (step by step)
   
-  d. 
+  d. Deep neural Network Application: Classification (Cat vs Non-Cat images)
