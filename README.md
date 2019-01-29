@@ -7,6 +7,14 @@ This repo contains all my work for this specialization. All the code base (witho
 The notebooks are uploaded by course:
 
 1. Neural Networks and Deep Learning
+    
+  a. Logistic Regression with a neural network Mindset
+  
+  b. Implement a neural network with a single hidden layer
+      
+  c. Building your Deep neural network (step by step)
+  
+  d. Deep neural Network Application: Classification (Cat vs Non-Cat images)
 
 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
     
