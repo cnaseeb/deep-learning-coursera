@@ -6,17 +6,17 @@ This repo contains all my work for this specialization. All the code base (witho
 
 The notebooks are uploaded by course:
 
-1. Neural Networks and Deep Learning
+## 1. Neural Networks and Deep Learning
     
-  a. Logistic Regression with a neural network Mindset
+    a. Logistic Regression with a neural network Mindset
   
-  b. Implement a neural network with a single hidden layer
+    b. Implement a neural network with a single hidden layer
       
-  c. Building your Deep neural network (step by step)
+    c. Building your Deep neural network (step by step)
   
-  d. Deep neural Network Application: Classification (Cat vs Non-Cat images)
+    d. Deep neural Network Application: Classification (Cat vs Non-Cat images)
 
-2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
     
     a. Initialization (model regularization and hyperparameter tuning)
     
@@ -29,7 +29,7 @@ The notebooks are uploaded by course:
     e. Build a deep neural network model to recognize numbers from 0 to 5 in sign language 
     
     
-3. Convolutional Neural Networks:
+## 3. Convolutional Neural Networks:
 
     a. Building a Conolutional Model (CONV, POOL layers and backpropagation)
   
@@ -41,7 +41,7 @@ The notebooks are uploaded by course:
     
     e. Face Recognition for the Happy House
   
-4. Sequence Models
+## 4. Sequence Models
 
     a. Building a Recurrent Neural Network (RNN) Model 
   
