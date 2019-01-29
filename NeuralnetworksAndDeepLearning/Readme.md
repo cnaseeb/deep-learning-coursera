@@ -7,3 +7,7 @@
       Use units with a non-linear activation function, such as tanh
       Compute the cross entropy loss
       Implement forward and backward propagation
+      
+  c. Building your Deep neural network (step by step)
+  
+  d. 
